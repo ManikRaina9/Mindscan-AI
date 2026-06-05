@@ -2,6 +2,7 @@ streamlit
 tensorflow
 numpy
 pandas
-scikit-learn
-nltk
-plotly
+matplotlib
+openai-whisper
+torch
+streamlit-mic-recorder
